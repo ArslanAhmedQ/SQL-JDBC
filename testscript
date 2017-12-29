@@ -1,0 +1,1 @@
+cat location.sql warehouse.sql customer.sql referral.sql product.sql stock.sql orders.sql > testing1
