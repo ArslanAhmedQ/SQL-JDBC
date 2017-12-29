@@ -1,0 +1,15 @@
+insert into stock (pid, wid, quantity) values (1, 8, 1);
+insert into stock (pid, wid, quantity) values (2, 5, 26);
+insert into stock (pid, wid, quantity) values (3, 7, 69);
+insert into stock (pid, wid, quantity) values (4, 5, 25);
+insert into stock (pid, wid, quantity) values (5, 3, 22);
+insert into stock (pid, wid, quantity) values (6, 2, 76);
+insert into stock (pid, wid, quantity) values (7, 7, 43);
+insert into stock (pid, wid, quantity) values (8, 7, 51);
+insert into stock (pid, wid, quantity) values (9, 10, 8);
+insert into stock (pid, wid, quantity) values (10, 10, 93);
+insert into stock (pid, wid, quantity) values (11, 7, 4);
+insert into stock (pid, wid, quantity) values (12, 1, 98);
+insert into stock (pid, wid, quantity) values (13, 2, 1);
+insert into stock (pid, wid, quantity) values (14, 9, 81);
+insert into stock (pid, wid, quantity) values (15, 7, 51);

@@ -1,0 +1,10 @@
+insert into warehouse (wid, wname, lid) values (1, 'Aveline', 1);
+insert into warehouse (wid, wname, lid) values (2, 'Corette', 2);
+insert into warehouse (wid, wname, lid) values (3, 'Tobey', 3);
+insert into warehouse (wid, wname, lid) values (4, 'Lucais', 4);
+insert into warehouse (wid, wname, lid) values (5, 'Alexandros', 5);
+insert into warehouse (wid, wname, lid) values (6, 'Erhard', 6);
+insert into warehouse (wid, wname, lid) values (7, 'Rawley', 7);
+insert into warehouse (wid, wname, lid) values (8, 'Wendi', 8);
+insert into warehouse (wid, wname, lid) values (9, 'Riane', 9);
+insert into warehouse (wid, wname, lid) values (10, 'Debra', 10);

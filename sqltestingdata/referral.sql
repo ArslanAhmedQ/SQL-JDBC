@@ -1,0 +1,15 @@
+insert into referral (custid, custref, commission) values (1, 5, 77);
+insert into referral (custid, custref, commission) values (2, 9, 98);
+insert into referral (custid, custref, commission) values (3, 7, 71);
+insert into referral (custid, custref, commission) values (4, 7, 12);
+insert into referral (custid, custref, commission) values (5, 6, 21);
+insert into referral (custid, custref, commission) values (6, 4, 90);
+insert into referral (custid, custref, commission) values (7, 3, 33);
+insert into referral (custid, custref, commission) values (8, 6, 55);
+insert into referral (custid, custref, commission) values (9, 1, 32);
+insert into referral (custid, custref, commission) values (10, 7, 94);
+insert into referral (custid, custref, commission) values (11, 8, 62);
+insert into referral (custid, custref, commission) values (12, 1, 52);
+insert into referral (custid, custref, commission) values (13, 5, 96);
+insert into referral (custid, custref, commission) values (14, 4, 79);
+insert into referral (custid, custref, commission) values (15, 7, 20);

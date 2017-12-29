@@ -1,0 +1,15 @@
+insert into customer  (cid, cname, lid) values (1, 'Deidre', 6);
+insert into customer  (cid, cname, lid) values (2, 'Garret', 4);
+insert into customer  (cid, cname, lid) values (3, 'Joya', 2);
+insert into customer  (cid, cname, lid) values (4, 'Brittan', 6);
+insert into customer  (cid, cname, lid) values (5, 'Terry', 3);
+insert into customer  (cid, cname, lid) values (6, 'Corbin', 3);
+insert into customer  (cid, cname, lid) values (7, 'Humphrey', 10);
+insert into customer  (cid, cname, lid) values (8, 'Burnaby', 7);
+insert into customer  (cid, cname, lid) values (9, 'Anatole', 8);
+insert into customer  (cid, cname, lid) values (10, 'Stefa', 9);
+insert into customer  (cid, cname, lid) values (11, 'Heywood', 1);
+insert into customer  (cid, cname, lid) values (12, 'Teresa', 2);
+insert into customer  (cid, cname, lid) values (13, 'Milt', 2);
+insert into customer  (cid, cname, lid) values (14, 'Koenraad', 4);
+insert into customer  (cid, cname, lid) values (15, 'Tabatha', 9);

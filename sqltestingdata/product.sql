@@ -1,0 +1,15 @@
+insert into product (pid, pname, introdate, um, cost) values (1, 'Alphazap', '2016-06-25', 1, 22);
+insert into product (pid, pname, introdate, um, cost) values (2, 'Biodex', '2015-08-16', 2, 65);
+insert into product (pid, pname, introdate, um, cost) values (3, 'Tampflex', '2015-10-29', 3, 23);
+insert into product (pid, pname, introdate, um, cost) values (4, 'Fix San', '2016-05-16', 4, 87);
+insert into product (pid, pname, introdate, um, cost) values (5, 'Domainer', '2017-04-25', 5, 75);
+insert into product (pid, pname, introdate, um, cost) values (6, 'Domainer', '2016-03-16', 6, 61);
+insert into product (pid, pname, introdate, um, cost) values (7, 'Wrapsafe', '2016-11-04', 7, 95);
+insert into product (pid, pname, introdate, um, cost) values (8, 'Otcom', '2016-03-24', 8, 2);
+insert into product (pid, pname, introdate, um, cost) values (9, 'Flowdesk', '2016-01-01', 9, 3);
+insert into product (pid, pname, introdate, um, cost) values (10, 'Voltsillam', '2014-12-11', 10, 9);
+insert into product (pid, pname, introdate, um, cost) values (11, 'Bitchip', '2016-02-21', 11, 92);
+insert into product (pid, pname, introdate, um, cost) values (12, 'Temp', '2016-05-16', 12, 15);
+insert into product (pid, pname, introdate, um, cost) values (13, 'Sonsing', '2016-03-15', 13, 84);
+insert into product (pid, pname, introdate, um, cost) values (14, 'Prodder', '2015-11-27', 14, 99);
+insert into product (pid, pname, introdate, um, cost) values (15, 'Bitchip', '2014-11-08', 15, 42);

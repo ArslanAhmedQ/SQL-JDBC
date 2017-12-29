@@ -1,0 +1,15 @@
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (1, 9, 2, '2015-02-19', 2, 55, 79, 'S');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (2, 7, 12, '2015-06-30', 5, 40, 17, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (3, 10, 12, '2017-07-28', 2, 19, 73, 'S');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (4, 4, 2, '2015-04-22', 1, 75, 23, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (5, 2, 5, '2017-07-16', 10, 25, 56, 'S');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (6, 5, 5, '2016-07-01', 9, 62, 57, 'S');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (7, 9, 13, '2015-11-29', 3, 54, 18, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (8, 1, 9, '2017-06-12', 10, 78, 44, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (9, 5, 4, '2017-04-25', 4, 100, 24, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (10, 6, 5, '2017-08-23', 6, 15, 77, 'S');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (11, 4, 5, '2015-06-20', 10, 5, 31, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (12, 10, 8, '2017-03-25', 7, 13, 28, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (13, 6, 2, '2016-03-25', 4, 61, 99, 'S');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (14, 9, 1, '2016-01-07', 7, 2, 15, 'O');
+insert into orders (oid, cid, pid, odate, shipwid, quantity, price, status) values (15, 4, 3, '2015-05-04', 10, 74, 83, 'S');
